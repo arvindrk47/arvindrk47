@@ -74,3 +74,8 @@
 
 </p>
 
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=arvindrk47">
+</a>
+<a href="https://github.com/arvindrk47?tab=followers"><img src="https://img.shields.io/github/followers/arvindrk47?label=Followers&style=social" alt="GitHub Badge"></a>
