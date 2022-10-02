@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Ecommerce Site for Book shop**
+- 🔭 I’m currently working on TCS as a Assistant System Engineer
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
