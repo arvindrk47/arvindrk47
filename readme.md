@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arvind R K</h1>
-<strong><h3 align="center">I'm a passionate Full Stack Developer</h3></strong>
+<strong><h3 align="center"></strong>
 
 
 ## 🙋‍♂️ About Me
