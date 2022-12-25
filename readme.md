@@ -36,7 +36,7 @@
     <a href="https://icons8.com/icon/40669/c++" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://icons8.com/icon/9BGchbZAXAyR/php-logo">
-    <img src="https://img.icons8.com/ios-filled/64/000000/php-logo.png" alt="php" height="55" width="50"/></a>
+    
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
