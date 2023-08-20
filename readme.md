@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on TCS as a Assistant System Engineer
+- 🔭 I’m currently working as a System Engineer in TCS
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
