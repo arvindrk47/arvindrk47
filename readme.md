@@ -13,7 +13,7 @@
 
 
 
-- 📧 Ping me @ **arvindrk47@outlook.com**
+- 📧 Ping me @ **arvindrk47@gmail.com**
 
 
 
