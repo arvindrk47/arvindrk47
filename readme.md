@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a System Engineer in TCS
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms and django**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
