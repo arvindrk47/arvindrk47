@@ -5,7 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a System Engineer in TCS
+- 🔭 I’m currently working as a python backend dev in Zotech ai technologies.
+  
+- 🧑‍💻 Previously I worked on TCS as a System Engineer.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and django**
 
