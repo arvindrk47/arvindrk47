@@ -9,7 +9,7 @@
   
 - 🧑‍💻 Previously I worked on TCS as a System Engineer.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and django**
+- 🌱 I’m currently learning **DSA, System Design and django**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
