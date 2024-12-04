@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a python backend dev in Zotech ai technologies.
+- 🔭 I’m currently working as a python backend dev in Nesto technologies.
   
 - 🧑‍💻 Previously I worked on TCS as a System Engineer.
 
